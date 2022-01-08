@@ -3,6 +3,8 @@
 - 🔭 Atualmente tenho estudado Java para backend ...
 - 🌱 Estou me aperfeiçoando em Java ...
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduwiest&theme=gruvbox&show_icons=true)
+
 <!--
 **eduwiest/eduwiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá sou Eduardo Wiest!! 👋
+
+- 🔭 Atualmente tenho estudado Java para backend ...
+- 🌱 Estou me aperfeiçoando em Java ...
 
 <!--
 **eduwiest/eduwiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

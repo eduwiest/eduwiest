@@ -1,10 +1,19 @@
-### Olá sou Eduardo Wiest!! 👋
+### Olá, eu sou Eduardo Wiest!! 👋
 
 - 🔭 Atualmente tenho estudado Java para backend ...
 - 🌱 Estou me aperfeiçoando em Java ...
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduwiest&theme=gruvbox&show_icons=true)
-
+ ##
+ <div>
+     <a href="mailto:eduwiest@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+<div>
+     <img src="https://img.shields.io/github/watchers/eduwiest/eduwiest.svg">
+</div>
 <!--
 **eduwiest/eduwiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

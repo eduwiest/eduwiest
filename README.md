@@ -13,12 +13,11 @@
  <img align="left" alt="PostGreSQL" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" /> 
 </div>
 <div>
-     <img src="https://img.shields.io/github/watchers/eduwiest/eduwiest.svg">
+<img src="https://img.shields.io/github/watchers/eduwiest/eduwiest.svg">
 </div>
 ##
- <div>
-     <a href="mailto:eduwiest@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-     
+<div>
+<a href="mailto:eduwiest@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>      
  </div>
 <!--
 **eduwiest/eduwiest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
